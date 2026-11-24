@@ -3,9 +3,9 @@ import { mkdirSync, writeFileSync, readFileSync } from "node:fs";
 import { join } from "node:path";
 
 // One sentence on a small everyday wonder, at most 200 characters.
-// Wrote this after the machine woke me up last week, no big meaning to it.
+// Swapped the first idea out, this bus one actually happened to me.
 const LINE =
-  "The washing machine finished at 1am and beeped so pleased with itself I actually said well done out loud, standing there in my socks holding a pair of wet pants.";
+  "My phone died on the bus so I just watched the rain instead, and caught the exact second a drop hit a puddle and threw the streetlight back up at me, all wobbly and gold.";
 
 const chars = [...LINE].length;
 if (chars < 1 || chars > 200) throw new Error(`line is ${chars} chars, must be 1-200`);

@@ -4,11 +4,11 @@
 [![rank](https://make.fun/badge/u-pangg7-everyday-wonder-two-days-to-find-the-line-970432d3/qazzk13/makefun-everyday-wonder/rank.svg)](https://make.fun/bounty/u-pangg7-everyday-wonder-two-days-to-find-the-line-970432d3/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-pangg7-everyday-wonder-two-days-to-find-the-line-970432d3)
 [![reward](https://make.fun/badge/u-pangg7-everyday-wonder-two-days-to-find-the-line-970432d3/qazzk13/makefun-everyday-wonder/reward.svg)](https://make.fun/bounty/u-pangg7-everyday-wonder-two-days-to-find-the-line-970432d3?utm_source=github&utm_medium=readme&utm_campaign=u-pangg7-everyday-wonder-two-days-to-find-the-line-970432d3)
 
-One sentence about a dumb little moment at home that stuck with me. It runs and writes the line to `/output/entry.txt`, same thing every time, nothing clever going on in the code.
+One sentence about a dumb little moment on the bus that stuck with me. It runs and writes the line to `/output/entry.txt`, same thing every time, nothing clever going on in the code.
 
-> The washing machine finished at 1am and beeped so pleased with itself I actually said well done out loud, standing there in my socks holding a pair of wet pants.
+> My phone died on the bus so I just watched the rain instead, and caught the exact second a drop hit a puddle and threw the streetlight back up at me, all wobbly and gold.
 
-That is 161 characters.
+That is 170 characters.
 
 ## Run it
 
